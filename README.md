@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**mvx24/mvx24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Engineering Leader | Full-Stack Architect | AI Enthusiast**
 
-Here are some ideas to get you started:
+I'm a software engineer and engineering leader with 20+ years of experience building scalable architectures for startups. Currently tinkering on some AI-powered apps concepts and delving into robotics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Current Tech Stack
+
+**Languages:** TypeScript/JavaScript • Go • Python • C/C++
+
+**Backend:** Node.js/Bun • SQLite • PostgreSQL
+
+**Frontend:** React.js • TailwindCSS
+
+## 🎯 Core Expertise
+
+- 🏗️ System Architecture & Technical Leadership
+- 🔄 Enterprise Integrations (EDI, ERP, 3PL)
+- 🤖 AI/ML Event-driven Applications
+- 👥 Team Building & Engineering Management
+- 📊 Data Warehousing & ETL Pipelines
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/marc-angelone)
